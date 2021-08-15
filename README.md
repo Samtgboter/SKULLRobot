@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/fccae495b5497e944d0fe.jpg">
+  <img src="https://telegra.ph/file/fccae495b5497e44d0fe.jpg">
 </p>
 
 # SKULLRobot 
